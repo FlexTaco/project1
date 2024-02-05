@@ -1,5 +1,5 @@
-# web102-project1
-# Web Development Project 1 - MMA Champions
+
+# Project 1 - MMA Champions
 
 Submitted by: Joffre Villacis
 
