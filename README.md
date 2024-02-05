@@ -1,8 +1,6 @@
 
 # Project 1 - MMA Champions
 
-Submitted by: Joffre Villacis
-
 This web app: shows the user the current ufc champions and if you click on their link it takes you to the ufc website to see their bio
 
 Time spent: 6 hours spent in total
@@ -35,10 +33,6 @@ Here's a walkthrough of implemented required features:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f480611410be4960a848fdab4fd22335-with-play.gif">
     </a>
   </div>
-
-## Notes
-
-This was fairly easy to do, the styling took a bit because I don't really like doing css but I figured it out.
 
 ## License
 
